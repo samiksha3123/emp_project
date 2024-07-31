@@ -1,7 +1,0 @@
-streamlit
-mysql-connector-python
-pandas
-streamlit==1.16.0
-mysql-connector-python==8.0.29
-sha256
-
