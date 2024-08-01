@@ -1,5 +1,0 @@
-streamlit
-mysql-connector-python
-hashlib
-sha256
-re
